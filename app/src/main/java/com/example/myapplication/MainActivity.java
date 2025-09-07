@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView textView = findViewById(R.id.textView);
-        textView.setText("Hello World from Android!");
+        textView.setText("Hello World from Android 123 !");
     }
 }
